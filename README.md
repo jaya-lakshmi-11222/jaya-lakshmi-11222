@@ -1,4 +1,4 @@
-## Hi, I'm Jaya 👋
+<h1 align="center">Hi, I'm Jaya 👋</h1>
 
 Welcome to my GitHub! I'm a passionate and curious **Full Stack Developer** and **Machine Learning Enthusiast**, always eager to explore the intersections of data, design, and scalable software solutions.
 
