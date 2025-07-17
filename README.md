@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm a passionate and curious **Full Stack Developer** and 
   ### 🔗 Skills:
 -  Tech Stack: `Python` | `SQL` | `React.js` | `Node.js` | `Express.js` | `MongoDB` | `PostgreSQL`
 -  Tools I Use: `Figma`, `Postman`, `Git`, `MinIO`, `Tableau`
+-  Technologies: `Machine Learning`, `Natural Language Processing`
 
   ### 🔗 Projects:
 -  Built ML Projects: 
