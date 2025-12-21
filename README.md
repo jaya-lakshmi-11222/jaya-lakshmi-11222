@@ -6,14 +6,14 @@ Welcome to my GitHub! I'm a passionate and curious **Full Stack Developer** and 
 -  Enthusiast in **Machine Learning**, **Natural Language Processing**, and **Cloud Computing**
 
   ### 🔗 Skills:
--  Tech Stack: `Python` | `SQL` | `React.js` | `Node.js` | `Express.js` | `MongoDB` | `PostgreSQL`
--  Tools I Use: `Figma`, `Postman`, `Git`, `MinIO`, `Tableau`
 -  Technologies: `Machine Learning`, `Natural Language Processing`
+-  Tech Stack: `Python` | `SQL` | `React.js` | `Node.js` | `Express.js` | `MongoDB` | `PostgreSQL`
+-  Tools I Use: `Docker`, `Git`, `MinIO`, `Postman`
 
   ### 🔗 Projects:
 -  Built ML Projects: 
   -  **Health Prediction System** using Random Forest
-  - 🎙 **Speech Emotion Detection** using K-Nearest Neighbors
+  - 🎙 **Speech Emotion Detection** using CNN with mel-spectograms
 -  Developed full-stack platforms including:
   - **Language Learning Tool** using MERN & MinIO @ IIIT-H
   - **Finance Hive** finance management web app using PERN stack
